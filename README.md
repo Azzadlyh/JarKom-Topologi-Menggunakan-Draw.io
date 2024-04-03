@@ -34,10 +34,7 @@ terhadap pengembangan teknologi untuk pengelolaan akuarium yang lebih baik.
 
 Berikut ini adalah deskripsi mengenai saran pengembangan : 
 
-   Dalam jurnal "Utilizing Neural Networks with CICIDS2018 Dataset for Detecting Brute Force Attack Anomalies in Intrusion Detection Systems",   
-pengembangan lebih lanjut dapat menggali model jaringan saraf yang lebih kompleks dan canggih untuk meningkatkan deteksi serangan brute force dan   
-mengurangi tingkat kesalahan false positive. Integrasi model jaringan saraf dalam sistem deteksi intrusi untuk pemantauan serangan secara real-time  
-akan meningkatkan respons sistem terhadap serangan yang sedang berlangsung.  
+   Dalam jurnal "Utilizing Neural Networks with CICIDS2018 Dataset for Detecting Brute Force Attack Anomalies in Intrusion Detection Systems", pengembangan lebih lanjut dapat menggali model jaringan saraf yang lebih kompleks dan canggih untuk meningkatkan deteksi serangan brute force dan mengurangi tingkat kesalahan false positive. Integrasi model jaringan saraf dalam sistem deteksi intrusi untuk pemantauan serangan secara real-time akan meningkatkan respons sistem terhadap serangan yang sedang berlangsung.  
 
    Dalam jurnal "Sistem Perekam Detak Jantung Berbasis Internet of Things (IoT) dengan Menggunakan Pulse Heart Rate Sensor",   
 pengembangan sensor detak jantung dan perangkat lunak yang lebih hemat energi akan meningkatkan masa pakai baterai dan keberlanjutan sistem,   
@@ -60,7 +57,8 @@ Kemudian dapat diterapkan dalam bentuk topology menggunkaan drowio sebagai berik
    ![image](https://github.com/Azzadlyh/JarKom-Topologi-Menggunakan-Draw.io/assets/126213404/e95ab9b3-23dc-460e-963e-727661dc91c9)  
 
 3. Kemudian mulai mendesign pengembangan topologynya :
-   ![image](https://github.com/Azzadlyh/JarKom-Topologi-Menggunakan-Draw.io/assets/126213404/a648abb2-9a49-4e46-8027-be7d5cf521fe)  
+   ![image](https://github.com/Azzadlyh/JarKom-Topologi-Menggunakan-Draw.io/assets/126213404/0f3f5fa0-51e5-4187-ae4b-4e234f81465f)  
+ 
 
    
  **Kesimpulannya :**   
