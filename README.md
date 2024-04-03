@@ -32,20 +32,13 @@ terhadap pengembangan teknologi untuk pengelolaan akuarium yang lebih baik.
 
 **Pengembangan infrastruktur jaringan berupa topologi beserta deskripsinya** :   
 
-Berikut ini adalah deskripsi mengenai saran pengembangan : 
+   Berikut ini adalah deskripsi mengenai saran pengembangan : 
 
-   Dalam jurnal "Utilizing Neural Networks with CICIDS2018 Dataset for Detecting Brute Force Attack Anomalies in Intrusion Detection Systems", pengembangan lebih lanjut dapat menggali model jaringan saraf yang lebih kompleks dan canggih untuk meningkatkan deteksi serangan brute force dan mengurangi tingkat kesalahan false positive. Integrasi model jaringan saraf dalam sistem deteksi intrusi untuk pemantauan serangan secara real-time akan meningkatkan respons sistem terhadap serangan yang sedang berlangsung.  
+   Dalam jurnal **"Utilizing Neural Networks with CICIDS2018 Dataset for Detecting Brute Force Attack Anomalies in Intrusion Detection Systems"**, pengembangan lebih lanjut dapat menggali model jaringan saraf yang lebih kompleks dan canggih untuk meningkatkan deteksi serangan brute force dan mengurangi tingkat kesalahan false positive. Integrasi model jaringan saraf dalam sistem deteksi intrusi untuk pemantauan serangan secara real-time akan meningkatkan respons sistem terhadap serangan yang sedang berlangsung.  
 
-   Dalam jurnal "Sistem Perekam Detak Jantung Berbasis Internet of Things (IoT) dengan Menggunakan Pulse Heart Rate Sensor",   
-pengembangan sensor detak jantung dan perangkat lunak yang lebih hemat energi akan meningkatkan masa pakai baterai dan keberlanjutan sistem,   
-terutama jika digunakan untuk pemantauan jangka panjang. Perlindungan tambahan terhadap akses tidak sah terhadap data detak jantung yang sensitif  
-dapat dicapai dengan penambahan lapisan keamanan tambahan seperti enkripsi data dan autentikasi pengguna. Selain itu, integrasi fitur analisis   
-data yang lebih canggih dapat memberikan wawasan yang lebih dalam tentang tren detak jantung, pola aktivitas, dan potensi masalah kesehatan yang perlu diperhatikan.   
+   Dalam jurnal **"Sistem Perekam Detak Jantung Berbasis Internet of Things (IoT) dengan Menggunakan Pulse Heart Rate Sensor"**, pengembangan sensor detak jantung dan perangkat lunak yang lebih hemat energi akan meningkatkan masa pakai baterai dan keberlanjutan sistem, terutama jika digunakan untuk pemantauan jangka panjang. Perlindungan tambahan terhadap akses tidak sah terhadap data detak jantung yang sensitif dapat dicapai dengan penambahan lapisan keamanan tambahan seperti enkripsi data dan autentikasi pengguna. Selain itu, integrasi fitur analisis data yang lebih canggih dapat memberikan wawasan yang lebih dalam tentang tren detak jantung, pola aktivitas, dan potensi masalah kesehatan yang perlu diperhatikan.   
 
-  Dalam jurnal "Prototype of Automatic Control System for Water Temperature and Acidity in Ornamental Fish Aquarium Based on Internet of Things (IoT)",  
-pengembangan sistem dapat mempertimbangkan integrasi sensor tambahan untuk memantau faktor-faktor lingkungan tambahan seperti tingkat oksigen, kekeruhan air, atau tingkat amonia.   
-Interaksi pengguna juga dapat ditingkatkan melalui integrasi dengan platform aplikasi seluler atau antarmuka pengguna yang lebih interaktif, memungkinkan pengguna untuk memantau   
-dan mengatur kondisi akuarium dari jarak jauh.  
+   Dalam jurnal **"Prototype of Automatic Control System for Water Temperature and Acidity in Ornamental Fish Aquarium Based on Internet of Things (IoT)"**, pengembangan sistem dapat mempertimbangkan integrasi sensor tambahan untuk memantau faktor-faktor lingkungan tambahan seperti tingkat oksigen, kekeruhan air, atau tingkat amonia. Interaksi pengguna juga dapat ditingkatkan melalui integrasi dengan platform aplikasi seluler atau antarmuka pengguna yang lebih interaktif, memungkinkan pengguna untuk memantau dan mengatur kondisi akuarium dari jarak jauh.  
 
 Kemudian dapat diterapkan dalam bentuk topology menggunkaan drowio sebagai berikut :   
 
